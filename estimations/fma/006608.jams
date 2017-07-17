@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 142.875, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 5.96875, 
+          "confidence": 0.9599882364273071, 
+          "value": "vocal", 
+          "time": 10.59375
+        }, 
+        {
+          "duration": 4.4375, 
+          "confidence": 0.9393325448036194, 
+          "value": "vocal", 
+          "time": 17.0
+        }, 
+        {
+          "duration": 15.937500000000002, 
+          "confidence": 0.9666116237640381, 
+          "value": "vocal", 
+          "time": 22.25
+        }, 
+        {
+          "duration": 37.96875, 
+          "confidence": 0.955234944820404, 
+          "value": "vocal", 
+          "time": 38.5625
+        }, 
+        {
+          "duration": 0.125, 
+          "confidence": 0.7576785087585449, 
+          "value": "vocal", 
+          "time": 78.96875
+        }, 
+        {
+          "duration": 0.9375000000000001, 
+          "confidence": 0.7704607248306274, 
+          "value": "vocal", 
+          "time": 79.5625
+        }, 
+        {
+          "duration": 0.6875, 
+          "confidence": 0.7964914441108704, 
+          "value": "vocal", 
+          "time": 81.1875
+        }, 
+        {
+          "duration": 59.09375000000001, 
+          "confidence": 0.9550065994262695, 
+          "value": "vocal", 
+          "time": 83.28125
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 142.875, 
+    "artist": ""
+  }
+}

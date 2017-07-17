@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 284.03125, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.9687500000000001, 
+          "confidence": 0.8209080696105957, 
+          "value": "vocal", 
+          "time": 29.218750000000004
+        }, 
+        {
+          "duration": 1.46875, 
+          "confidence": 0.8055180311203003, 
+          "value": "vocal", 
+          "time": 35.5
+        }, 
+        {
+          "duration": 0.3125, 
+          "confidence": 0.7287265658378601, 
+          "value": "vocal", 
+          "time": 114.34375000000001
+        }, 
+        {
+          "duration": 0.25, 
+          "confidence": 0.7539299726486206, 
+          "value": "vocal", 
+          "time": 147.125
+        }, 
+        {
+          "duration": 0.78125, 
+          "confidence": 0.8055008053779602, 
+          "value": "vocal", 
+          "time": 152.65625
+        }, 
+        {
+          "duration": 0.125, 
+          "confidence": 0.7005500197410583, 
+          "value": "vocal", 
+          "time": 156.75
+        }, 
+        {
+          "duration": 0.21875, 
+          "confidence": 0.7316889762878418, 
+          "value": "vocal", 
+          "time": 168.125
+        }, 
+        {
+          "duration": 2.0, 
+          "confidence": 0.7874342203140259, 
+          "value": "vocal", 
+          "time": 254.75000000000003
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 284.03125, 
+    "artist": ""
+  }
+}

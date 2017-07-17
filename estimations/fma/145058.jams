@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 371.03125, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.1875, 
+          "confidence": 0.7258057594299316, 
+          "value": "vocal", 
+          "time": 123.93750000000001
+        }, 
+        {
+          "duration": 0.1875, 
+          "confidence": 0.7308635115623474, 
+          "value": "vocal", 
+          "time": 124.53125000000001
+        }, 
+        {
+          "duration": 0.40625, 
+          "confidence": 0.7742488384246826, 
+          "value": "vocal", 
+          "time": 211.1875
+        }, 
+        {
+          "duration": 0.625, 
+          "confidence": 0.8267956972122192, 
+          "value": "vocal", 
+          "time": 212.90625
+        }, 
+        {
+          "duration": 0.46875000000000006, 
+          "confidence": 0.7672707438468933, 
+          "value": "vocal", 
+          "time": 254.25000000000003
+        }, 
+        {
+          "duration": 0.46875000000000006, 
+          "confidence": 0.7622061967849731, 
+          "value": "vocal", 
+          "time": 258.375
+        }, 
+        {
+          "duration": 0.40625, 
+          "confidence": 0.7273219227790833, 
+          "value": "vocal", 
+          "time": 286.3125
+        }, 
+        {
+          "duration": 0.8125, 
+          "confidence": 0.8093796968460083, 
+          "value": "vocal", 
+          "time": 304.6875
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 371.03125, 
+    "artist": ""
+  }
+}

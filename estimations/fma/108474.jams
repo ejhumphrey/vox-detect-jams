@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 295.25, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.9062500000000001, 
+          "confidence": 0.8771907687187195, 
+          "value": "vocal", 
+          "time": 173.3125
+        }, 
+        {
+          "duration": 0.21875, 
+          "confidence": 0.7184175848960876, 
+          "value": "vocal", 
+          "time": 175.0
+        }, 
+        {
+          "duration": 0.21875, 
+          "confidence": 0.7227821350097656, 
+          "value": "vocal", 
+          "time": 215.84375
+        }, 
+        {
+          "duration": 0.3125, 
+          "confidence": 0.7171297669410706, 
+          "value": "vocal", 
+          "time": 222.875
+        }, 
+        {
+          "duration": 0.21875, 
+          "confidence": 0.7202805280685425, 
+          "value": "vocal", 
+          "time": 224.125
+        }, 
+        {
+          "duration": 0.6875, 
+          "confidence": 0.7920445799827576, 
+          "value": "vocal", 
+          "time": 239.43750000000003
+        }, 
+        {
+          "duration": 0.5625, 
+          "confidence": 0.8225054740905762, 
+          "value": "vocal", 
+          "time": 241.87500000000003
+        }, 
+        {
+          "duration": 0.53125, 
+          "confidence": 0.7701369524002075, 
+          "value": "vocal", 
+          "time": 243.15625000000003
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 295.25, 
+    "artist": ""
+  }
+}

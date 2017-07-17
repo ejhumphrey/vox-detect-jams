@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 201.25, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.25, 
+          "confidence": 0.7230927348136902, 
+          "value": "vocal", 
+          "time": 108.6875
+        }, 
+        {
+          "duration": 0.9062500000000001, 
+          "confidence": 0.8055324554443359, 
+          "value": "vocal", 
+          "time": 111.0625
+        }, 
+        {
+          "duration": 0.0625, 
+          "confidence": 0.7150282859802246, 
+          "value": "vocal", 
+          "time": 112.28125
+        }, 
+        {
+          "duration": 1.125, 
+          "confidence": 0.8338884711265564, 
+          "value": "vocal", 
+          "time": 112.375
+        }, 
+        {
+          "duration": 0.65625, 
+          "confidence": 0.7981392741203308, 
+          "value": "vocal", 
+          "time": 114.50000000000001
+        }, 
+        {
+          "duration": 0.125, 
+          "confidence": 0.6508402824401855, 
+          "value": "vocal", 
+          "time": 117.90625000000001
+        }, 
+        {
+          "duration": 1.28125, 
+          "confidence": 0.7831264734268188, 
+          "value": "vocal", 
+          "time": 118.18750000000001
+        }, 
+        {
+          "duration": 0.75, 
+          "confidence": 0.844024658203125, 
+          "value": "vocal", 
+          "time": 120.68750000000001
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 201.25, 
+    "artist": ""
+  }
+}

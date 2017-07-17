@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 211.84375, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.21875, 
+          "confidence": 0.7882434129714966, 
+          "value": "vocal", 
+          "time": 56.65625
+        }, 
+        {
+          "duration": 0.15625, 
+          "confidence": 0.7314044833183289, 
+          "value": "vocal", 
+          "time": 57.21875000000001
+        }, 
+        {
+          "duration": 1.3125, 
+          "confidence": 0.8536297082901001, 
+          "value": "vocal", 
+          "time": 57.65625000000001
+        }, 
+        {
+          "duration": 0.78125, 
+          "confidence": 0.7478259801864624, 
+          "value": "vocal", 
+          "time": 60.25000000000001
+        }, 
+        {
+          "duration": 0.40625, 
+          "confidence": 0.7136180400848389, 
+          "value": "vocal", 
+          "time": 61.09375000000001
+        }, 
+        {
+          "duration": 0.34375, 
+          "confidence": 0.7678776383399963, 
+          "value": "vocal", 
+          "time": 68.875
+        }, 
+        {
+          "duration": 0.9375000000000001, 
+          "confidence": 0.8180765509605408, 
+          "value": "vocal", 
+          "time": 93.53125
+        }, 
+        {
+          "duration": 0.75, 
+          "confidence": 0.7827877402305603, 
+          "value": "vocal", 
+          "time": 149.3125
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 211.84375, 
+    "artist": ""
+  }
+}

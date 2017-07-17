@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 244.0, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.59375, 
+          "confidence": 0.8400161862373352, 
+          "value": "vocal", 
+          "time": 15.375000000000002
+        }, 
+        {
+          "duration": 0.4375, 
+          "confidence": 0.7506557703018188, 
+          "value": "vocal", 
+          "time": 18.46875
+        }, 
+        {
+          "duration": 0.59375, 
+          "confidence": 0.85956209897995, 
+          "value": "vocal", 
+          "time": 27.34375
+        }, 
+        {
+          "duration": 0.625, 
+          "confidence": 0.8255659937858582, 
+          "value": "vocal", 
+          "time": 30.312500000000004
+        }, 
+        {
+          "duration": 0.125, 
+          "confidence": 0.720420241355896, 
+          "value": "vocal", 
+          "time": 42.71875
+        }, 
+        {
+          "duration": 0.71875, 
+          "confidence": 0.8472773432731628, 
+          "value": "vocal", 
+          "time": 51.25
+        }, 
+        {
+          "duration": 0.46875000000000006, 
+          "confidence": 0.7471573948860168, 
+          "value": "vocal", 
+          "time": 54.40625
+        }, 
+        {
+          "duration": 0.46875000000000006, 
+          "confidence": 0.7550908327102661, 
+          "value": "vocal", 
+          "time": 139.21875
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 244.0, 
+    "artist": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 94.9375, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.5625, 
+          "confidence": 0.8584571480751038, 
+          "value": "vocal", 
+          "time": 37.375
+        }, 
+        {
+          "duration": 0.03125, 
+          "confidence": 0.6921054124832153, 
+          "value": "vocal", 
+          "time": 42.6875
+        }, 
+        {
+          "duration": 0.5, 
+          "confidence": 0.7221386432647705, 
+          "value": "vocal", 
+          "time": 42.75
+        }, 
+        {
+          "duration": 0.40625, 
+          "confidence": 0.7310470342636108, 
+          "value": "vocal", 
+          "time": 46.8125
+        }, 
+        {
+          "duration": 0.4375, 
+          "confidence": 0.7602362632751465, 
+          "value": "vocal", 
+          "time": 52.71875
+        }, 
+        {
+          "duration": 0.4375, 
+          "confidence": 0.7342880368232727, 
+          "value": "vocal", 
+          "time": 54.53125
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 94.9375, 
+    "artist": ""
+  }
+}

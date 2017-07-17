@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 214.78125, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.21875, 
+          "confidence": 0.7568506002426147, 
+          "value": "vocal", 
+          "time": 106.0625
+        }, 
+        {
+          "duration": 0.9687500000000001, 
+          "confidence": 0.830740213394165, 
+          "value": "vocal", 
+          "time": 144.78125
+        }, 
+        {
+          "duration": 1.03125, 
+          "confidence": 0.8726094365119934, 
+          "value": "vocal", 
+          "time": 146.6875
+        }, 
+        {
+          "duration": 0.875, 
+          "confidence": 0.8253541588783264, 
+          "value": "vocal", 
+          "time": 150.875
+        }, 
+        {
+          "duration": 0.8125, 
+          "confidence": 0.8614833354949951, 
+          "value": "vocal", 
+          "time": 152.875
+        }, 
+        {
+          "duration": 1.03125, 
+          "confidence": 0.8937340378761292, 
+          "value": "vocal", 
+          "time": 154.6875
+        }, 
+        {
+          "duration": 1.0, 
+          "confidence": 0.8229029178619385, 
+          "value": "vocal", 
+          "time": 156.71875
+        }, 
+        {
+          "duration": 0.9062500000000001, 
+          "confidence": 0.7840949892997742, 
+          "value": "vocal", 
+          "time": 158.875
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 214.78125, 
+    "artist": ""
+  }
+}

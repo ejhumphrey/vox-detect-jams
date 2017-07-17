@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 92.125, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 5.34375, 
+          "confidence": 0.9412570595741272, 
+          "value": "vocal", 
+          "time": 20.71875
+        }, 
+        {
+          "duration": 5.0, 
+          "confidence": 0.9516458511352539, 
+          "value": "vocal", 
+          "time": 30.625000000000004
+        }, 
+        {
+          "duration": 1.375, 
+          "confidence": 0.9432229995727539, 
+          "value": "vocal", 
+          "time": 39.15625
+        }, 
+        {
+          "duration": 4.8125, 
+          "confidence": 0.9688370823860168, 
+          "value": "vocal", 
+          "time": 50.46875
+        }, 
+        {
+          "duration": 4.96875, 
+          "confidence": 0.9635846614837646, 
+          "value": "vocal", 
+          "time": 60.21875000000001
+        }, 
+        {
+          "duration": 1.25, 
+          "confidence": 0.937111496925354, 
+          "value": "vocal", 
+          "time": 68.875
+        }, 
+        {
+          "duration": 1.15625, 
+          "confidence": 0.9010793566703796, 
+          "value": "vocal", 
+          "time": 79.3125
+        }, 
+        {
+          "duration": 0.9687500000000001, 
+          "confidence": 0.9212534427642822, 
+          "value": "vocal", 
+          "time": 89.34375
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 92.125, 
+    "artist": ""
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 327.28125, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.5, 
+          "confidence": 0.756504476070404, 
+          "value": "vocal", 
+          "time": 124.00000000000001
+        }, 
+        {
+          "duration": 0.5, 
+          "confidence": 0.7759863138198853, 
+          "value": "vocal", 
+          "time": 125.25000000000001
+        }, 
+        {
+          "duration": 0.59375, 
+          "confidence": 0.7469747066497803, 
+          "value": "vocal", 
+          "time": 134.3125
+        }, 
+        {
+          "duration": 0.53125, 
+          "confidence": 0.7633846402168274, 
+          "value": "vocal", 
+          "time": 136.25
+        }, 
+        {
+          "duration": 0.1875, 
+          "confidence": 0.7246553897857666, 
+          "value": "vocal", 
+          "time": 138.25
+        }, 
+        {
+          "duration": 0.625, 
+          "confidence": 0.7812796831130981, 
+          "value": "vocal", 
+          "time": 140.6875
+        }, 
+        {
+          "duration": 1.375, 
+          "confidence": 0.7719253301620483, 
+          "value": "vocal", 
+          "time": 153.0625
+        }, 
+        {
+          "duration": 0.75, 
+          "confidence": 0.787632167339325, 
+          "value": "vocal", 
+          "time": 292.96875
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 327.28125, 
+    "artist": ""
+  }
+}

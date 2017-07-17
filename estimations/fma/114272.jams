@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 132.46875, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.125, 
+          "confidence": 0.7073342204093933, 
+          "value": "vocal", 
+          "time": 54.96875
+        }, 
+        {
+          "duration": 0.3125, 
+          "confidence": 0.821263313293457, 
+          "value": "vocal", 
+          "time": 57.78125000000001
+        }, 
+        {
+          "duration": 1.53125, 
+          "confidence": 0.8444839715957642, 
+          "value": "vocal", 
+          "time": 59.15625000000001
+        }, 
+        {
+          "duration": 0.25, 
+          "confidence": 0.7781386971473694, 
+          "value": "vocal", 
+          "time": 63.62500000000001
+        }, 
+        {
+          "duration": 0.6875, 
+          "confidence": 0.813718855381012, 
+          "value": "vocal", 
+          "time": 67.53125
+        }, 
+        {
+          "duration": 0.40625, 
+          "confidence": 0.7823558449745178, 
+          "value": "vocal", 
+          "time": 70.78125
+        }, 
+        {
+          "duration": 0.8125, 
+          "confidence": 0.7898541688919067, 
+          "value": "vocal", 
+          "time": 73.15625
+        }, 
+        {
+          "duration": 1.0, 
+          "confidence": 0.8375468254089355, 
+          "value": "vocal", 
+          "time": 76.625
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 132.46875, 
+    "artist": ""
+  }
+}

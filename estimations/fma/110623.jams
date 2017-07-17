@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 134.5, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.78125, 
+          "confidence": 0.8330990672111511, 
+          "value": "vocal", 
+          "time": 14.812500000000002
+        }, 
+        {
+          "duration": 0.59375, 
+          "confidence": 0.7649250030517578, 
+          "value": "vocal", 
+          "time": 35.84375
+        }, 
+        {
+          "duration": 1.125, 
+          "confidence": 0.8202358484268188, 
+          "value": "vocal", 
+          "time": 43.9375
+        }, 
+        {
+          "duration": 0.9375000000000001, 
+          "confidence": 0.8368629217147827, 
+          "value": "vocal", 
+          "time": 70.03125
+        }, 
+        {
+          "duration": 0.40625, 
+          "confidence": 0.7456426024436951, 
+          "value": "vocal", 
+          "time": 78.75
+        }, 
+        {
+          "duration": 0.3125, 
+          "confidence": 0.7274268865585327, 
+          "value": "vocal", 
+          "time": 90.09375
+        }, 
+        {
+          "duration": 1.25, 
+          "confidence": 0.806613564491272, 
+          "value": "vocal", 
+          "time": 100.09375
+        }, 
+        {
+          "duration": 1.1875, 
+          "confidence": 0.7492322325706482, 
+          "value": "vocal", 
+          "time": 119.03125000000001
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 134.5, 
+    "artist": ""
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 201.84375, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 1.65625, 
+          "confidence": 0.9077542424201965, 
+          "value": "vocal", 
+          "time": 4.0
+        }, 
+        {
+          "duration": 2.375, 
+          "confidence": 0.7969359159469604, 
+          "value": "vocal", 
+          "time": 9.625
+        }, 
+        {
+          "duration": 1.03125, 
+          "confidence": 0.8558705449104309, 
+          "value": "vocal", 
+          "time": 25.84375
+        }, 
+        {
+          "duration": 2.21875, 
+          "confidence": 0.8838544487953186, 
+          "value": "vocal", 
+          "time": 110.03125
+        }, 
+        {
+          "duration": 0.0625, 
+          "confidence": 0.8501036763191223, 
+          "value": "vocal", 
+          "time": 134.4375
+        }, 
+        {
+          "duration": 0.125, 
+          "confidence": 0.6999942064285278, 
+          "value": "vocal", 
+          "time": 134.53125
+        }, 
+        {
+          "duration": 1.8437500000000002, 
+          "confidence": 0.8667170405387878, 
+          "value": "vocal", 
+          "time": 140.5625
+        }, 
+        {
+          "duration": 0.21875, 
+          "confidence": 0.750696063041687, 
+          "value": "vocal", 
+          "time": 142.5
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 201.84375, 
+    "artist": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 150.65625, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.25, 
+          "confidence": 0.7482924461364746, 
+          "value": "vocal", 
+          "time": 8.34375
+        }, 
+        {
+          "duration": 1.0, 
+          "confidence": 0.813140332698822, 
+          "value": "vocal", 
+          "time": 13.875
+        }, 
+        {
+          "duration": 0.5625, 
+          "confidence": 0.7886178493499756, 
+          "value": "vocal", 
+          "time": 41.375
+        }, 
+        {
+          "duration": 0.28125, 
+          "confidence": 0.8213980793952942, 
+          "value": "vocal", 
+          "time": 70.5
+        }, 
+        {
+          "duration": 0.71875, 
+          "confidence": 0.7770316004753113, 
+          "value": "vocal", 
+          "time": 76.1875
+        }, 
+        {
+          "duration": 0.4375, 
+          "confidence": 0.7441923022270203, 
+          "value": "vocal", 
+          "time": 80.15625
+        }, 
+        {
+          "duration": 1.28125, 
+          "confidence": 0.7879384756088257, 
+          "value": "vocal", 
+          "time": 82.59375
+        }, 
+        {
+          "duration": 0.21875, 
+          "confidence": 0.7483475804328918, 
+          "value": "vocal", 
+          "time": 86.4375
+        }, 
+        {
+          "duration": 0.25, 
+          "confidence": 0.7512131929397583, 
+          "value": "vocal", 
+          "time": 91.0
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 150.65625, 
+    "artist": ""
+  }
+}

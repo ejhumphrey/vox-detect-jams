@@ -1,0 +1,91 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 121.875, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 1.40625, 
+          "confidence": 0.9203072190284729, 
+          "value": "vocal", 
+          "time": 0.375
+        }, 
+        {
+          "duration": 0.25, 
+          "confidence": 0.7665615081787109, 
+          "value": "vocal", 
+          "time": 11.125
+        }, 
+        {
+          "duration": 1.21875, 
+          "confidence": 0.7920210957527161, 
+          "value": "vocal", 
+          "time": 16.625
+        }, 
+        {
+          "duration": 1.3125, 
+          "confidence": 0.7497801184654236, 
+          "value": "vocal", 
+          "time": 18.0
+        }, 
+        {
+          "duration": 0.25, 
+          "confidence": 0.745507001876831, 
+          "value": "vocal", 
+          "time": 28.0625
+        }, 
+        {
+          "duration": 0.25, 
+          "confidence": 0.7303363084793091, 
+          "value": "vocal", 
+          "time": 38.71875
+        }, 
+        {
+          "duration": 0.3125, 
+          "confidence": 0.7271421551704407, 
+          "value": "vocal", 
+          "time": 39.9375
+        }, 
+        {
+          "duration": 0.15625, 
+          "confidence": 0.7086495161056519, 
+          "value": "vocal", 
+          "time": 81.4375
+        }, 
+        {
+          "duration": 0.375, 
+          "confidence": 0.7807719707489014, 
+          "value": "vocal", 
+          "time": 82.5625
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 121.875, 
+    "artist": ""
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 264.15625, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.15625, 
+          "confidence": 0.7279731035232544, 
+          "value": "vocal", 
+          "time": 6.875
+        }, 
+        {
+          "duration": 15.750000000000002, 
+          "confidence": 0.9911336302757263, 
+          "value": "vocal", 
+          "time": 7.656250000000001
+        }, 
+        {
+          "duration": 77.40625, 
+          "confidence": 0.981611967086792, 
+          "value": "vocal", 
+          "time": 26.0625
+        }, 
+        {
+          "duration": 15.875000000000002, 
+          "confidence": 0.9908062219619751, 
+          "value": "vocal", 
+          "time": 107.90625
+        }, 
+        {
+          "duration": 19.9375, 
+          "confidence": 0.9846948981285095, 
+          "value": "vocal", 
+          "time": 124.31250000000001
+        }, 
+        {
+          "duration": 43.90625, 
+          "confidence": 0.9869049191474915, 
+          "value": "vocal", 
+          "time": 144.53125
+        }, 
+        {
+          "duration": 14.25, 
+          "confidence": 0.9586126208305359, 
+          "value": "vocal", 
+          "time": 189.03125
+        }, 
+        {
+          "duration": 11.75, 
+          "confidence": 0.9766289591789246, 
+          "value": "vocal", 
+          "time": 204.34375
+        }, 
+        {
+          "duration": 39.6875, 
+          "confidence": 0.958825409412384, 
+          "value": "vocal", 
+          "time": 216.5
+        }, 
+        {
+          "duration": 1.0625, 
+          "confidence": 0.8130719661712646, 
+          "value": "vocal", 
+          "time": 257.5
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 264.15625, 
+    "artist": ""
+  }
+}

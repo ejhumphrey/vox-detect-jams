@@ -1,0 +1,85 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "tag_open", 
+      "sandbox": {
+        "threshold": 0.7, 
+        "medfilt": 11
+      }, 
+      "time": 0, 
+      "duration": 595.34375, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.84375, 
+          "confidence": 0.8995382785797119, 
+          "value": "vocal", 
+          "time": 259.375
+        }, 
+        {
+          "duration": 0.46875000000000006, 
+          "confidence": 0.9038380980491638, 
+          "value": "vocal", 
+          "time": 352.53125
+        }, 
+        {
+          "duration": 2.65625, 
+          "confidence": 0.8661842942237854, 
+          "value": "vocal", 
+          "time": 445.46875
+        }, 
+        {
+          "duration": 2.0, 
+          "confidence": 0.8413554430007935, 
+          "value": "vocal", 
+          "time": 450.84375
+        }, 
+        {
+          "duration": 1.65625, 
+          "confidence": 0.8552016019821167, 
+          "value": "vocal", 
+          "time": 456.0
+        }, 
+        {
+          "duration": 2.34375, 
+          "confidence": 0.8962130546569824, 
+          "value": "vocal", 
+          "time": 479.50000000000006
+        }, 
+        {
+          "duration": 2.28125, 
+          "confidence": 0.8343095183372498, 
+          "value": "vocal", 
+          "time": 487.78125000000006
+        }, 
+        {
+          "duration": 0.4375, 
+          "confidence": 0.8100987672805786, 
+          "value": "vocal", 
+          "time": 556.5
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.3", 
+    "title": "", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 595.34375, 
+    "artist": ""
+  }
+}
